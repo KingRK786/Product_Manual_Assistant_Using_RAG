@@ -111,16 +111,6 @@ streamlit run app.py
 
 ---
 
-## Contributors
-
-* **Harshada Patil**
-  [GitHub Profile](https://github.com/harshadapatil14)
-  
-* **Pallavi Dudhalkar**
-  [GitHub Profile](https://github.com/harshadapatil14)
-  
----
-
 ## Future Enhancements
 
 * Multi-manual support with project-specific memory
