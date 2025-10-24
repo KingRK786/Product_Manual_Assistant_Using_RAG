@@ -8,7 +8,7 @@ An intelligent assistant built with Retrieval-Augmented Generation (RAG) archite
 
 To build a privacy-preserving, offline-ready assistant that:
 - Extracts and processes product manuals
-- Performs semantic search over extracted content
+- Performs semantic search over extracted contents
 - Answers user queries using local LLMs
 - Collects and analyzes user feedback
 
